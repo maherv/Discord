@@ -6,6 +6,7 @@
 Note++
  NODE.js Command prompt
 # مثال لوضعه
+ ```d.js
  const Discord = require('discord.js');
 const client = new Discord.Client();
 
@@ -20,4 +21,4 @@ client.on('message', message => {
 });
 
 client.login('التوكين تبعك');
-
+```

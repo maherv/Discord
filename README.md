@@ -22,3 +22,7 @@ client.on('message', message => {
 
 client.login('التوكين تبعك');
 ```
+# مساعده
+يمكنك الانضمام الى سيرفر ديسكورد جى اس العربى
+https://discord.gg/H4FH3Rh
+وشكراً
